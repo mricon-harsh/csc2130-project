@@ -1,8 +1,7 @@
 markdown 
 # CSC2130 Project 
 ## Project Title 
-[SCHOOL MANAGEMENT SYSTEM
-10 
+[SCHOOL MANAGEMENT SYSTEM]
 ## Student Information - Name: [JAMES MWAVUA]Registration Number[COM/0001/25] -Course: CSC2130 – Introduction to Web Development 
 ## Project Description 
 [This is a shcool LMS Designed to help reduce and remove paper work used in schools]
