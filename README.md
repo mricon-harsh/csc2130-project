@@ -2,17 +2,17 @@
 
 ## Project Title
 
-[School Management System]
-
+School Management System
+                                                    
 ## Student Information
 
-* **Name:** [James Mwavua]
-* **Registration Number:** [COM/0001/25]
+* **Name:** James Mwavua
+* **Registration Number:** COM/0001/25
 * **Course:** CSC2130 – Introduction to Web Development
 
 ## Project Description
 
-[This is a School Management System designed to reduce and eliminate paperwork used in schools.]
+This is a School Management System designed to reduce and eliminate paperwork used in schools.
 
 ## Technologies Used
 
@@ -30,4 +30,4 @@
 
 ## GitHub Repository
 
-[https://github.com/mricon-harsh/csc2130-project.git]
+https://github.com/mricon-harsh/csc2130-project.git
